@@ -1,6 +1,6 @@
 //! # horizen-attest — Zero-Knowledge Attestations on Horizen Base L3
 //!
-//! Horizen adaptation of [zk-attest](https://github.com/jjcav84/zk-attest) —
+//! Horizen adaptation of [zk-attest](https://github.com/orkid-labs/zk-attest) —
 //! replaces Hedera HCS/HTS with ZEN token staking and ZenKinetic privacy
 //! gate integration.
 //!

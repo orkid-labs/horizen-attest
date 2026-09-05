@@ -9,14 +9,14 @@
 >
 > **By [Orkid Labs](https://www.orkidlabs.com)** — privacy-first crypto engineering
 
-Horizen adaptation of [zk-attest](https://github.com/jjcav84/zk-attest) —
+Horizen adaptation of [zk-attest](https://github.com/orkid-labs/zk-attest) —
 replaces Hedera HCS/HTS with ZEN token staking and
-[ZenKinetic](https://github.com/jjcav84/zenkinetic) privacy gate
+[ZenKinetic](https://github.com/orkid-labs/zenkinetic) privacy gate
 integration.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa.svg)](LICENSE)
 [![Horizen](https://img.shields.io/badge/Horizen-Base%20L3-ff6b35.svg)](https://horizen.org)
-[![negentropy](https://img.shields.io/badge/powered%20by-negentropy-a78bfa.svg)](https://github.com/jjcav84/negentropy)
+[![negentropy](https://img.shields.io/badge/powered%20by-negentropy-a78bfa.svg)](https://github.com/orkid-labs/negentropy)
 
 ## How it works
 
@@ -68,7 +68,7 @@ horizen-attest
 
 ## Origin
 
-This is the Horizen-native adaptation of [zk-attest](https://github.com/jjcav84/zk-attest).
+This is the Horizen-native adaptation of [zk-attest](https://github.com/orkid-labs/zk-attest).
 The ZK circuit and proof generation are the same; the chain integration
 changes from Hedera HCS/HTS to Horizen Base L3 with ZEN staking and
 ZenKinetic privacy gating.
@@ -77,7 +77,7 @@ ZenKinetic privacy gating.
 
 ### Ecosystem value proposition
 
-horizen-attest brings zero-knowledge attestations to Horizen Base L3. This is the Horizen-native adaptation of [zk-attest](https://github.com/jjcav84/zk-attest) — an existing, working project migrating to Horizen infrastructure. The ZK circuit stays the same; the chain integration changes from Hedera HCS/HTS to Horizen Base L3 with ZEN staking and ZenKinetic privacy gating.
+horizen-attest brings zero-knowledge attestations to Horizen Base L3. This is the Horizen-native adaptation of [zk-attest](https://github.com/orkid-labs/zk-attest) — an existing, working project migrating to Horizen infrastructure. The ZK circuit stays the same; the chain integration changes from Hedera HCS/HTS to Horizen Base L3 with ZEN staking and ZenKinetic privacy gating.
 
 ### Milestone roadmap
 
@@ -113,11 +113,11 @@ Progressive achievement over 120 days, following Thrive's Horizen Boost Program 
 
 Part of the negentropy-powered privacy stack for Horizen:
 
-- [negentropy](https://github.com/jjcav84/negentropy) — shared physics engine
-- [zenkinetic](https://github.com/jjcav84/zenkinetic) — thermodynamic privacy gate
-- [horizen-age](https://github.com/jjcav84/horizen-age) — age verification
-- [horizen-attest](https://github.com/jjcav84/horizen-attest) — **this repo**
-- [horizen-ballot](https://github.com/jjcav84/horizen-ballot) — anonymous voting
+- [negentropy](https://github.com/orkid-labs/negentropy) — shared physics engine
+- [zenkinetic](https://github.com/orkid-labs/zenkinetic) — thermodynamic privacy gate
+- [horizen-age](https://github.com/orkid-labs/horizen-age) — age verification
+- [horizen-attest](https://github.com/orkid-labs/horizen-attest) — **this repo**
+- [horizen-ballot](https://github.com/orkid-labs/horizen-ballot) — anonymous voting
 
 ## About
 
