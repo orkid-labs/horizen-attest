@@ -128,3 +128,18 @@ systems.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Part of Orkid Labs
+
+**horizen-attest** — Zero-knowledge attestations on Horizen Base L3 — proofs scored by negentropy, gated by ZenKinetic.
+
+- Install: `cargo add horizen-attest`
+- Package: https://crates.io/crates/horizen-attest
+- API docs: https://docs.rs/horizen-attest
+- Docs: https://docs.orkidlabs.xyz/packages/horizen-attest
+
+Related Orkid projects: [zenkinetic](https://github.com/orkid-labs/zenkinetic), [horizen-age](https://github.com/orkid-labs/horizen-age), [zk-attest](https://github.com/orkid-labs/zk-attest)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)
